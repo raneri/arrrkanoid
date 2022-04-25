@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e5d7cd676c59152448542a3dfee8d862
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - theScore: {instanceID: 0}
+  - lifes: {instanceID: 0}
+  - imgGameOver: {instanceID: 0}
+  - audioSourceWelcome: {instanceID: 0}
+  - audioSourceTalk: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
